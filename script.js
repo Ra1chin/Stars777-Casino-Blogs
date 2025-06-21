@@ -3,8 +3,8 @@ const blogs = [
         id: 1,
         title: "Top 10 Casino Strategies for Beginners",
         excerpt: "Discover expert tips to kickstart your casino journey with confidence.",
-        image: "/images/Top 10 Casino Strategies for Beginners.jpg",
-        link: "/top-10-casino-strategies-for-beginners.html",
+        image: "/Top 10 Casino Strategies for Beginners.jpg",
+        link: "blog contents/top-10-casino-strategies-for-beginners.html",
         date: "2025-06-15"
     },
     {
